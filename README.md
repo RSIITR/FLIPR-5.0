@@ -2,4 +2,4 @@
 
 ## Task 1: Stock Price prediction
 
-## Task 2: Forecasting
+## Task 2: Time-series Forecasting
